@@ -1,0 +1,1 @@
+"""Patient appointment notification service."""
